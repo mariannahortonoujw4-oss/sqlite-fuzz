@@ -1,0 +1,2 @@
+# sqlite-fuzz
+oneliners
